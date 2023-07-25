@@ -1,0 +1,5 @@
+INSERT - добавление новой записи в таблицу
+SELECT - выборка данных изтаблицы (в том числе при создании сводной выбоки из нескольких таблиц)
+
+INSERT INTO <table name>()VALUES(VAL1, VAL2,...)
+INSERT INTO <table name> VALUES(VAL1, VAL2,...)
