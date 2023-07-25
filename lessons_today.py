@@ -1,2 +1,1 @@
-import numpy as np
-import matplotlib.pyplot as plT
+"""We created a new file for study SQLite  """
